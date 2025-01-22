@@ -1,0 +1,13 @@
+// tsconfig.json
+{
+    "compilerOptions": {
+      "strictPropertyInitialization": false,
+      "strict": true,
+      "target": "es2020",
+      "module": "commonjs",
+      "outDir": "./dist",
+      "rootDir": "./src",
+      "esModuleInterop": true,
+      "skipLibCheck": true
+    }
+  }
